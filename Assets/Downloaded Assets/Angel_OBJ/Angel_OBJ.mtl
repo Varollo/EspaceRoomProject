@@ -1,0 +1,17 @@
+newmtl PM3D_Sphere3D3_1_blinnSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.05 0.05 0.05
+Tf 1.00 1.00 1.00
+map_Kd Wing.jpg
+Ni 1.00
+Ks 0.04 0.04 0.04
+newmtl blinn1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Angel_diffuse.jpg
+Ni 1.00
+Ks 0.00 0.00 0.00
+map_Ks Angel_Specular.jpg

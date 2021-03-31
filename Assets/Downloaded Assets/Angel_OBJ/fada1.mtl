@@ -1,0 +1,25 @@
+# Blender MTL File: 'untitled.blend'
+# Material Count: 2
+
+newmtl PM3D_Sphere3D3_1_blinnSG
+Ns 0.000000
+Ka 0.050000 0.050000 0.050000
+Kd 0.000000 0.000000 0.000000
+Ks 0.040000 0.040000 0.040000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd C:\\Wing.jpg
+
+newmtl blinn1SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\\Angel_diffuse.jpg
+map_Ks C:\\Angel_Specular.jpg

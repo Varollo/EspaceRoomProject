@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70225f04c3c4bd345ae410598fa2d4ba, type: 3}
+  m_Name: FrogEye
+  m_EditorClassIdentifier: 
+  Name: FrogEye
+  ItemSprite: {fileID: 21300000, guid: 94e3392e5ae59014c8d2b2dc55bec445, type: 3}
