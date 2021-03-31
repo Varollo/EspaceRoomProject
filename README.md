@@ -15,17 +15,17 @@ Assets are mostly downloaded from the internet and Unity Asset Store.
 - Once you complete the game you'll get a **Frog Eye** item.
 > If you are having trouble, find the FrogGame object in the hierarchy and in the FrogGameController script, tweek the values.
 
-![](WalkthroughImages/walkthroughimage01.png)
+![](WalkthroughImages/walkthroughImage01.png)
 
 ### Fairy Puzzle
 - Move to the camera to the right (by pressing the right arrow key) and click on the Fairy game
 - To get the **Fairy Dust** item, you must move the pieces until the full image is complete as seen bellow:
 
-![](WalkthroughImages/walkthroughimage02.png)
+![](WalkthroughImages/walkthroughImage02.png)
 
 > If you are having trouble, find the FairyGame object in the hierarchy and in the FairyGameController script, tweek the values.
 
-![](WalkthroughImages/walkthroughimage03.png)
+![](WalkthroughImages/walkthroughImage03.png)
 
 ### Crow Puzzle
 - Move to the right again and click on the cage with the crow to start a quizz about math, the answers to the questions are as follows:
@@ -46,7 +46,7 @@ Assets are mostly downloaded from the internet and Unity Asset Store.
 	- +blue = -green
 > An easy way to solve this puzzle is to get the green bar to the top, the blue bar to the botton and the red bar to the middle, then, clicking the blue button until they are all the same value:
 
-![](WalkthroughImages/walkthroughimage04.png)
+![](WalkthroughImages/walkthroughImage04.png)
 
 - After that you'll get a **Levitation Potion** item
 
